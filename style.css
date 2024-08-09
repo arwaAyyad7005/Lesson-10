@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 .root{
-    --main-blue: #3a6cf4;
+    --main-blue: #0044ff;
 }
 
 
@@ -17,7 +17,7 @@
 
 
 header {
-    background-color: #f0f0f0;
+    background-color: #4d5baf;
     width: 100%;
     position: fixed;
     z-index: 999;
@@ -63,7 +63,7 @@ section {
 }
 
 .main h2 {
-    color: #fff;
+    color: #d60202;
     font-size: 1.4em;
     font-weight: 500;
 }
@@ -71,7 +71,7 @@ section {
 .main h2 span {
     display: inline-block;
     margin-top: 10px;
-    color: #4e9eff;
+    color: #0073ff;
     font-size: 3em;
     font-weight: 600;
 }
@@ -127,7 +127,7 @@ section {
 }
 
 .card {
-    background-color: #fff;
+    background-color: #dbfff4;
     width: 21.25em;
     box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
     border-radius: 10px;
@@ -141,7 +141,7 @@ section {
 }
 
 .card .icon {
-    color: #3a6cf4;
+    color: #402eff;
     font-size: 8em;
     text-align: center;
 }
@@ -166,8 +166,8 @@ section {
 }
 
 .project-card {
-    background-color: #fff;
-    border: 1px solid #fff;
+    background-color: #fc9f9f;
+    border: 1px solid #e67c7c;
     min-height: 14em;
     width: 23em;
     overflow: hidden;
